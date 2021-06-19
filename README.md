@@ -1,6 +1,7 @@
 # rock-paper-scissor
 # Udacity's Introduction to Tensorflow Lite - TFLite for Android
-This program was developed as a part of Udacity Course. Combined image-classification and rock-paper-scissor exercises in the course to create a new classifier android application. 
+This program was developed as a part of Udacity Course. Image classification app that classifies camera image as rock, paper, scissor.
+
 
 # TensorflowLite
 
